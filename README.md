@@ -71,7 +71,7 @@ Learning goals should be understood by the student at the end of the classes
 * Loss functions, Gradient Descent, and Back Propagation (Supervised Learning)
 * Single and Multi-layer Perceptron Projects
 
-![Multilayer Perceptron](CMs/CM6/final.gif)
+![Multilayer Perceptron](Multi-Layer-Perceptron.gif)
 
 ### **Chapter 3: Computer Vision With AI**
 * Identifying images with a regular neural network
@@ -84,8 +84,8 @@ Learning goals should be understood by the student at the end of the classes
   * CIFAR10 image classification project 
   * BONUS: Challenge Students to recreate the hand drawn digit identifier project using a CNN as close to entirely on their own as possible
 
-![Hand Drawn Digit Indetifier](CMs/CM7/final.gif)
-![Image Classification](CMs/CM9/final.png)
+![Hand Drawn Digit Indetifier](Digit-Classifier.gif)
+![Image Classification](Blurry_Images_Identified.png)
 
  
 ### **Bonus Chapter 4: Generative AI**
@@ -94,14 +94,14 @@ Learning goals should be understood by the student at the end of the classes
 * Generative Adversarial Neural Networks (GANs)
 * Hand drawn digit GAN project
 
-![AI Generated Hand Drawn Digits](CMs/CM10/final.png)
+![AI Generated Hand Drawn Digits](Generated_Digits.png)
 
 ### **Bonus** 
 * Training AI to play games with Deep-Q reinforcement learning
 * Possible Game Projects (Provided): Snake
 * Student game ideas 
 
-![AI Playing Snake](CMs/CM11/final.gif)
+![AI Playing Snake](Snake.gif)
 
 # Instructional Method
 Students participate in Live Virtual Sessions through a video program called Zoom.
